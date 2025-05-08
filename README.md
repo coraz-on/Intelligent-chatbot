@@ -72,10 +72,3 @@ Contributions are welcome! Feel free to submit pull requests or open issues for 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-*Note: This README is a template. Customize it according to your project.*
-```
-
-Replace placeholders like `your-username` with your actual GitHub username and customize other sections as needed. This template provides information about the project's features, getting started, usage, Docker setup, contributing guidelines, and licensing information.
